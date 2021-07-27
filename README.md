@@ -1,4 +1,4 @@
-# Web-Crawler-Currency
+# Web Crawler Currency
 Um pequeno projeto de férias feito para coletar dados sobre os diversos pares de moedas existentes na atualidade. Esse script pode ser utilizado diariamente, a fim de criar uma base de dados para outros fins, como criar um dataset ou para fins de Machine Learning. Também vale ressaltar que seu uso pode ser para buscar informações ou gerar insights.
 
 # Objetivo
