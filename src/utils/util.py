@@ -36,7 +36,7 @@ def scrap_page():
                     url = f'https://br.investing.com{currency}'
                     data = scrap_specific_currency(url, date)
                     object = Currency(data[0], data[1], data[2], data[3], data[4], data[5], data[6], data[7], data[8])
-    #
+  
                     # Save the data
                     save_data.append([data[0], data[1], data[2], data[3], data[4], data[5], data[6], data[7], data[8]])
 
